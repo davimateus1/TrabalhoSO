@@ -1,6 +1,8 @@
 <h3 align="center">
-  Trabalho SO: Uma thread x Multiplas threads
+  Projeto SO: Single thread x Multiple threads
 </h3>
+
+<br>
 
 <p align="center">
   <a href="#-instalacao">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
