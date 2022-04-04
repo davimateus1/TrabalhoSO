@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="threads-multithreadingtabela-java.jnlp">
+  <information>
+    <title>threads-multithreadingtabela-java</title>
+    <vendor>ravar</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="threads-multithreadingtabela-java.jar" size="8207" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="threads-multithreadingtabela-java" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafx.Main"  name="threads-multithreadingtabela-java" />
+  <update check="always"/>
+</jnlp>
